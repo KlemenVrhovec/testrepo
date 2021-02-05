@@ -1,0 +1,3 @@
+test file
+Created with cmd command:
+Notepad test.txt
